@@ -2,8 +2,8 @@
 <div>
   <div style="display: inline_block">
     <a href="https://github.com/Jorge-Bandeira94">
-    <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Jorge-Bandeira94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-      readme-stats>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bandeira94&layout=compact&exclude_repo=Atividades---Data-Science-Academy,Jorge-Bandeira94.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats>
+    <img height="190em" src=https://github-readme-stats.vercel.app/api?username=Jorge-Bandeira94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-      readme-stats>
+    <img height="190em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bandeira94&layout=compact&exclude_repo=Atividades---Data-Science-Academy,Jorge-Bandeira94.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats>
   </div>
   <div align="center" style="display: inline_block"><br>
   <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
