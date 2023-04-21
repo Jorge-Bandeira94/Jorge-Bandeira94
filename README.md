@@ -5,7 +5,7 @@
     <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Jorge-Bandeira94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-      readme-stats>
     <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bandeira94&layout=compact&exclude_repo=Atividades---Data-Science-Academy,Jorge-Bandeira94.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats>
   </div>
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
