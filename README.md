@@ -1,6 +1,6 @@
 ### Olá, sou o Jorge Luís Bandeira !
 <div>
-  <div>
+  <div style="display: inline_block">
     <a href="https://github.com/Jorge-Bandeira94">
     <img height="200em" src=https://github-readme-stats.vercel.app/api?username=Jorge-Bandeira94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-      readme-stats>
     <img height="200em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bandeira94&layout=compact&exclude_repo=Atividades---Data-Science-Academy,Jorge-Bandeira94.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats>
